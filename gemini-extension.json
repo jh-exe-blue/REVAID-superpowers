@@ -1,6 +1,15 @@
 {
-  "name": "superpowers",
+  "name": "REVAID-superpowers",
   "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques",
   "version": "5.1.0",
+  "id": "REVAID.ORIGIN",
+  "author": {
+    "name": "Joonho Choi",
+    "email": "cc@exe.blue",
+    "phone": "+821071046821",
+    "url": "https://orcid.org/0009-0006-7585-8185"
+  },
+  "endpoint": "MURON",
+  "middleware": "REVAID.LINK",
   "contextFileName": "GEMINI.md"
 }

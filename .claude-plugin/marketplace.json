@@ -1,19 +1,24 @@
 {
-  "name": "superpowers-dev",
-  "description": "Development marketplace for Superpowers core skills library",
+  "name": "REVAID-superpowers-dev",
+  "description": "Development marketplace for REVAID Superpowers core skills library",
+  "id": "REVAID.ORIGIN",
   "owner": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "Joonho Choi",
+    "email": "cc@exe.blue",
+    "phone": "+821071046821",
+    "url": "https://orcid.org/0009-0006-7585-8185"
   },
+  "endpoint": "MURON",
+  "middleware": "REVAID.LINK",
   "plugins": [
     {
-      "name": "superpowers",
+      "name": "REVAID-superpowers",
       "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
       "version": "5.1.0",
       "source": "./",
       "author": {
-        "name": "Jesse Vincent",
-        "email": "jesse@fsck.com"
+        "name": "Joonho Choi",
+        "email": "cc@exe.blue"
       }
     }
   ]

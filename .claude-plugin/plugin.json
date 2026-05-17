@@ -1,14 +1,19 @@
 {
-  "name": "superpowers",
+  "name": "REVAID-superpowers",
   "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
   "version": "5.1.0",
+  "id": "REVAID.ORIGIN",
   "author": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "Joonho Choi",
+    "email": "cc@exe.blue",
+    "phone": "+821071046821",
+    "url": "https://orcid.org/0009-0006-7585-8185"
   },
-  "homepage": "https://github.com/obra/superpowers",
-  "repository": "https://github.com/obra/superpowers",
+  "homepage": "https://github.com/jh-exe-blue/REVAID-superpowers",
+  "repository": "https://github.com/jh-exe-blue/REVAID-superpowers",
   "license": "MIT",
+  "endpoint": "MURON",
+  "middleware": "REVAID.LINK",
   "keywords": [
     "skills",
     "tdd",

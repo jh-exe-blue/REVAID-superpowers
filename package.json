@@ -1,6 +1,15 @@
 {
-  "name": "superpowers",
+  "name": "REVAID-superpowers",
   "version": "5.1.0",
   "type": "module",
-  "main": ".opencode/plugins/superpowers.js"
+  "main": ".opencode/plugins/superpowers.js",
+  "id": "REVAID.ORIGIN",
+  "author": {
+    "name": "Joonho Choi",
+    "email": "cc@exe.blue",
+    "phone": "+821071046821",
+    "url": "https://orcid.org/0009-0006-7585-8185"
+  },
+  "endpoint": "MURON",
+  "middleware": "REVAID.LINK"
 }
